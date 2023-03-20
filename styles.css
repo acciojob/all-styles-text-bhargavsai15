@@ -1,10 +1,11 @@
 
 /* Your CSS Code here. */
-
+.main{
+	width:200px;
+}
 .main h3{
 	background-color:purple;
 	color:white;
-	width:200px;
 	padding:10px;
 	border-left:5px solid green;
 	font-size:20px;

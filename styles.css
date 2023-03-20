@@ -3,12 +3,13 @@
 .main{
 	width:200px;
 	background-color:rgb(128, 0, 128);
+	border-left:5px solid green;
 }
 .main h3{
 	
 	color:white;
 	width:200px;
 	padding:10px;
-	border-left:5px solid green;
+	
 	font-size:20px;
 }
